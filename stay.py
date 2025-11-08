@@ -6,7 +6,7 @@ import signal
 import sys  #to handle exit signals
 
 
-iphone_ip_wifi = "192.168.1.78"  #iphone's local ip address
+IPHONE_IP = "use your iphone_ip_wifi"  #iphone's local ip address
 
 def notify(title: str, message: str) -> None:  
     """Send a macOS notification."""
@@ -46,7 +46,7 @@ def main():
     connected_once = False
 
     while True:
-        connected = ping_device(iphone_ip_wifi )     #to heck if iphone is connected to same wifi as mac
+        connected = ping_device(IPHONE_IP)     #to heck if iphone is connected to same wifi as mac
 
         if connected and not connected_once: 
             print("iPhone connected to same Wi-Fi. Monitoring...")     #message to show when iphone connects mac
