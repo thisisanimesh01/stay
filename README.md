@@ -10,7 +10,7 @@ save battery and adds an extra layer of security.
 
 DEMO VIDEO
 ----------
-Watch the demonstration video showing how Stay works here:
+Watch the demonstration video showing how Stay works here: video.mp4
 
    
 
