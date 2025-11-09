@@ -7,7 +7,7 @@ import signal
 import sys  #to handle exit signals
 
 
-IPHONE_IP = "192.168.1.70"  #iphone's local ip address
+IPHONE_IP = "use your iphone_ip_wifi"  #iphone's local ip address
 
 def notify(title: str, message: str) -> None:  
     """Send a macOS notification."""
