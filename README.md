@@ -12,8 +12,8 @@ DEMO VIDEO
 ----------
 Watch the demonstration video showing how Stay works here: <br>
 
-<video src="https://github.com/thisisanimesh01/stay/blob/main/video.mp4" 
-controls width="700"></video>
+[![Watch the demo video](thumbnail.png)](https://github.com/thisisanimesh01/stay/raw/main/video.mp4)
+
 
 
 
@@ -82,7 +82,7 @@ To find it:
 4. Update the IPHONE_IP variable in stay.py with that address
 
    Example:
-   IPHONE_IP = "192.168.1.78"
+   IPHONE_IP = "use your iphone_ip_wifi"
 
 AUTHOR
 ------
