@@ -12,7 +12,7 @@ DEMO VIDEO
 ----------
 Watch the demonstration video showing how Stay works here: <br>
 
-<video src="demo.mp4" autoplay controls muted loop width="800"></video>
+<video src="https://github.com/thisisanimesh01/stay/blob/main/demo.mp4" autoplay controls muted loop width="800"></video>
 
 
 
