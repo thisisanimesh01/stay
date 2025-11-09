@@ -12,7 +12,8 @@ DEMO VIDEO
 ----------
 Watch the demonstration video showing how Stay works here: <br>
 
-[![Watch the demo video](thumbnail.png)](https://github.com/thisisanimesh01/stay/raw/main/video.mp4)
+<video src="video.mp4" autoplay controls muted loop width="800"></video>
+
 
 
 
