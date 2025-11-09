@@ -12,7 +12,7 @@ DEMO VIDEO
 ----------
 Watch the demonstration video showing how Stay works here: <br>
 
-<video src="https://raw.githubusercontent.com/thisisanimesh01/stay/main/video.mp4" 
+<video src="https://github.com/thisisanimesh01/stay/blob/main/video.mp4" 
 controls width="700"></video>
 
 
