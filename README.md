@@ -1,5 +1,5 @@
 STAY - Keep your Mac awake only when your iPhone is connected to Wi-Fi
-=====================================================================
+======================================================================
 
 OVERVIEW
 --------
@@ -13,10 +13,6 @@ DEMO VIDEO
 Watch the demonstration video showing how Stay works here: <br>
 
 [![Watch the demo video](thumbnail.png)](https://github.com/thisisanimesh01/stay/blob/main/demo.mp4)
-
-
-
-
 
 
 FEATURES
